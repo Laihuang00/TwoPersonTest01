@@ -1,0 +1,15 @@
+.rarachi.nav ul{
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.rarachi.nav ul li{
+  width: 100%;
+}
+.rarachi.nav ul a{
+  color: #055c92;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+}
